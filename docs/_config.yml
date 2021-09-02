@@ -1,5 +1,9 @@
 theme: minima
 
+title: Interactive Media Capstone
 author:
   name: Benjamin Pang
   email: ben.10@nyu.edu
+
+minima:
+  skin: dark
