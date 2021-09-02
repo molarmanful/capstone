@@ -1,2 +1,2 @@
-# NYU Abu Dhabi Interactive Media Capstone 2021-2022
-## Benjamin Pang
+# Interactive Media Capstone
+## Benjamin Pang, New York University Abu Dhabi, c/o 2022
