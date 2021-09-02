@@ -1,10 +1,2 @@
 theme: jekyll-theme-minimal
-
-collections:
-  posts:
-    permalink: "/news/:year/:month/:day/:title/"
-    output: true
-
-defaults:
-  path: _posts
-  type: posts
+permalink: /blog/:year/:month/:day/:title
