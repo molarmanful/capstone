@@ -1,2 +1,2 @@
-theme: jekyll-theme-minimal
+theme: minima
 permalink: /blog/:year/:month/:day/:title
