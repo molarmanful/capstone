@@ -16,4 +16,5 @@ Since I am dealing with electricity in extreme proximity to the brain, extra cau
 
 Notes:
 - The headband that comes with the Mind Flex games provides the best balance between affordability and data robustness.
-- The Mind Flex headband exposes eight pieces of data: one signal strength value, five filtered frequency/power band values, and two "aggregated" values for easy access to interpreted readings.
+- The Mind Flex headband exposes eight pieces of data: one signal strength value, five filtered frequency/power band values, and two "aggregated" values for easy access to interpreted readings. The robustness/accuracy of this data will in turn determine the robustness of the artwork/system.
+- Normally, the headband is wireless when used with the game; however, the wireless radio only sends aggregate values and not frequency values. It may be possible to hack together a DIY wireless system to allow for more flexibility when designing, for example, art installations.
