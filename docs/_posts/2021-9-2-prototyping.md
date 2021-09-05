@@ -12,3 +12,4 @@ Since I am dealing with electricity in extreme proximity to the brain, extra cau
 
 ## Possible Configurations
 
+![configs](https://user-images.githubusercontent.com/7122029/132132219-91fd8d5a-d8e9-4be7-af95-f69d06352262.png)
