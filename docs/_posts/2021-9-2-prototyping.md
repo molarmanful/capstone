@@ -13,3 +13,7 @@ Since I am dealing with electricity in extreme proximity to the brain, extra cau
 ## Possible Configurations
 
 ![configs](https://user-images.githubusercontent.com/7122029/132132219-91fd8d5a-d8e9-4be7-af95-f69d06352262.png)
+
+Notes:
+- The headband that comes with the Mind Flex games provides the best balance between affordability and data robustness.
+- The Mind Flex headband exposes eight pieces of data: one signal strength value, five filtered frequency/power band values, and two "aggregated" values for easy access to interpreted readings.
