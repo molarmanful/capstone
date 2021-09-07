@@ -21,6 +21,6 @@ Notes:
 
 ## Visual Concept
 
-[Link](https://imgur.com/a/KJvGGrI)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/KJvGGrI" data-context="false" ><a href="//imgur.com/a/KJvGGrI"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 I decided to prototype some motion designs for this week which could form the visual language for the installation.
