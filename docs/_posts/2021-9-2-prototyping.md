@@ -19,7 +19,8 @@ Notes:
 - The Mind Flex headband exposes eight pieces of data: one signal strength value, five filtered frequency/power band values, and two "aggregated" values for easy access to interpreted readings. The robustness/accuracy of this data will in turn determine the robustness of the artwork/system.
 - Normally, the headband is wireless when used with the game; however, the wireless radio only sends aggregate values and not frequency values. It may be possible to hack together a DIY wireless system to allow for more flexibility when designing, for example, art installations.
 
-## Visual Concepts
+## Visual Concept
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/KJvGGrI" data-context="false" ><a href="//imgur.com/a/KJvGGrI"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Link](https://imgur.com/a/KJvGGrI)
 
+I decided to prototype some motion designs for this week which could form the visual language for the installation.
