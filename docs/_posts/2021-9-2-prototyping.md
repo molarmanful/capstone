@@ -21,5 +21,5 @@ Notes:
 
 ## Visual Concepts
 
-https://user-images.githubusercontent.com/7122029/132354501-12a73fb1-95d3-4e01-9dbf-e31f8f7e012d.mp4
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/KJvGGrI" data-context="false" ><a href="//imgur.com/a/KJvGGrI"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
