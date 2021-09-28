@@ -1,5 +1,6 @@
 ---
 title: About
+toc: About
 ---
 
 Benjamin Pang is an artist/programmer from San Francisco, CA and a final-year Interactive Media major at New York University Abu Dhabi. With a background in software development and the sciences, he mainly deals with interactive installations, multimedia experiences, and CGI/VFX art. Drawing influences from a wide variety of classical and contemporary artists, music, digital multimedia, and personal experiences, his work explores sensory confusion, coping mechanisms, and loneliness in the post-digital age. He is currently making and posting CGI "everydays" online under the alias "BandidoJim," as well as building a capstone project installation involving brain-computer interfaces.
