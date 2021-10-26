@@ -6,7 +6,7 @@ The midterm paper was a chance for me to consciously think about where my inspir
 
 # Concept Design
 
-
+For most of the creative process thus far, I have felt that the visual identity of my piece isn't quite as developed as I'd like it to be. Even with the wide variety of inspirations I have access too, my main difficulty has been translating the underlying themes of my capstone into a meaningful yet visually-appealing installation. Usually, my creative process is highly-reliant on hands-on experimentation and countless iterations to reach a satisfactory end result. For this project, however, I decided to try drafting concept designs using 3D rendering to try to figure out the visual language of the capstone.
 
 # Prototyping
 
