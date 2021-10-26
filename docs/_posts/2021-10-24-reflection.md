@@ -1,8 +1,8 @@
-Currently, much of my work on the capstone so far has been in concept design and prototyping.
+Currently, much of my work on the capstone so far has been in concept design and prototyping. 
 
 # Inspiration
 
-
+The midterm paper was a chance for me to consciously think about where my inspirations for this project have truly come from. Oftentimes, I find myself passively/subconsciously "absorbing" art and media that I find on Instagram, YouTube, or other online platforms. These subconscious inspirations often show up in my artworks and projects without me necessarily realizing, so forcing myself to pay attention to what inspires me as well as how those artists/artworks inspire me has given me a new way to approach my capstone.
 
 # Concept Design
 
