@@ -1,0 +1,1 @@
+I continued learning and playing around with TouchDesigner, this time transitioning from 2D to 3D. This is where TouchDesigner truly outshines Processing and OpenFrameworks for me; the block-based drag-and-drop interaction that TouchDesigner uses made it much easier to visualize and work in 3D.

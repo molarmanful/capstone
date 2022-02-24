@@ -8,4 +8,6 @@ As such, I decided it would be worth learning TouchDesigner, which solves each o
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/bE4Njka"  ><a href="//imgur.com/a/bE4Njka">TD Fractal Noise Test</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+![td fractal nodes](https://i.imgur.com/PLjVN0t.png)
+
 First visual experiment using Noise and Feedback TOPs to generate fractals - has a variety of potential inputs that can be piped from brain readings in the future.
